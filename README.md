@@ -123,19 +123,24 @@ The following image shows the FIFO simulation waveform.
 
 **Waveform file:** `waveforms/FIFO_simulation.png`
 
-## FIFO Synthesis — Intel Quartus Prime
+## Synthesis Results — Intel Quartus Prime
 
-The FIFO RTL is synthesized using **Intel Quartus Prime** to inspect the synthesis results.
+The FIFO RTL was successfully synthesized using Intel Quartus Prime
+for a Cyclone V FPGA device.
 
-The synthesis evidence is stored in the `synthesis/` directory.
+**Key results:**
+- Logic utilization: 80 / 56,480 ALMs (< 1%)
+- Total registers: 146
+- Total pins: 22 / 268 (8%)
+- Block memory bits: 0
 
-### Synthesis Results
+#### Synthesized Logic Schematic
 
-![FIFO Quartus Prime Synthesis Results](synthesis/FIFO_synthesis.png)
+![FIFO Synthesized Logic Schematic](synthesis/FIFO_synthesis.png)
 
-**Synthesis image:** `synthesis/FIFO_synthesis.png`
+#### Quartus Prime Flow Summary
 
-The screenshot documents the synthesis results available from the Quartus Prime workflow. Specific resource utilization, timing, or hardware implementation claims should be based on the actual synthesis reports.
+![FIFO Flow Summary](synthesis/FIFO_flow_summary.png)
 
 ## Other Memory and Digital Design Modules
 
