@@ -25,7 +25,6 @@ It is commonly used for data buffering, temporary storage, and communication bet
 | FIFO depth | 16 entries |
 | Memory organization | 16 × 8 |
 | Total storage capacity | 128 bits |
-| Address width | 4 bits |
 | Read pointer width | 5 bits |
 | Write pointer width | 5 bits |
 | Simulation tool | ModelSim |
