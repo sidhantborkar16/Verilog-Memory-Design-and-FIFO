@@ -1,0 +1,19 @@
+# Compile of ram.v was successful.
+# Compile of ram_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ram_tb
+# vsim -gui work.ram_tb 
+# Start time: 15:08:46 on Oct 14,2026
+# Loading work.ram_tb
+# Loading work.ram
+add wave -position insertpoint sim:/ram_tb/*
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# End time: 15:13:10 on Oct 14,2026, Elapsed time: 0:04:24
+# Errors: 0, Warnings: 1
+# Closing project E:/Verilog/model_sim/lab5/sim/ram/ram.mpf

@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Verilog/Practice/sim/counter
+vFIFO
+!s110 1792145561
+!i10b 1
+!s100 V64jWJi8b91>19[igC_>`2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6a^z@3YkTSN_;DRW_lCMI0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Verilog/model_sim/lab5/sim/FIFO
+w1792138864
+8E:/Verilog/model_sim/lab5/rtl/FIFO.v
+FE:/Verilog/model_sim/lab5/rtl/FIFO.v
+!i122 17
+L0 2 39
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1792145560.000000
+!s107 E:/Verilog/model_sim/lab5/rtl/FIFO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/rtl/FIFO.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@f@i@f@o
+vFIFO_tb
+!s110 1792145592
+!i10b 1
+!s100 :T;fCloVz[Q2?llD^ZEjW0
+R0
+Ib[kml^lf92XOj=P?g610O0
+R1
+R2
+w1792097494
+8E:/Verilog/model_sim/lab5/tb/FIFO_tb.v
+FE:/Verilog/model_sim/lab5/tb/FIFO_tb.v
+!i122 20
+L0 1 77
+R3
+r1
+!s85 0
+31
+!s108 1792145591.000000
+!s107 E:/Verilog/model_sim/lab5/tb/FIFO_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/tb/FIFO_tb.v|
+!i113 1
+R4
+R5
+n@f@i@f@o_tb

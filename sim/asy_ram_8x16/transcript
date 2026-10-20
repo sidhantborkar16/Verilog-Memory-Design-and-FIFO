@@ -1,0 +1,17 @@
+# Compile of asy_ram_8x16.v was successful.
+# Compile of asy_ram_8x16_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.asy_ram_8x16_tb
+# vsim -gui work.asy_ram_8x16_tb 
+# Start time: 13:13:58 on Oct 15,2026
+# Loading work.asy_ram_8x16_tb
+# Loading work.asy_ram_8x16
+add wave -position insertpoint sim:/asy_ram_8x16_tb/*
+run
+# ** Note: $finish    : E:/Verilog/model_sim/lab5/tb/asy_ram_8x16_tb.v(85)
+#    Time: 310 ps  Iteration: 0  Instance: /asy_ram_8x16_tb
+# 1
+# Break in Module asy_ram_8x16_tb at E:/Verilog/model_sim/lab5/tb/asy_ram_8x16_tb.v line 85
+quit -sim
+# End time: 14:36:18 on Oct 15,2026, Elapsed time: 1:22:20
+# Errors: 0, Warnings: 2

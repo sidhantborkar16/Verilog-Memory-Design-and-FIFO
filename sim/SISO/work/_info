@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Verilog/model_sim/lab5/sim/asy_ram_8x16
+vSISO
+Z0 !s110 1792062933
+!i10b 1
+!s100 kUND5j57@VCO>HPe6fBY:2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK86JYR]]M8mQ2n^P7fhP;2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/Verilog/model_sim/lab5/sim/SISO
+w1792062928
+8E:/Verilog/model_sim/lab5/rtl/SISO.v
+FE:/Verilog/model_sim/lab5/rtl/SISO.v
+!i122 43
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1792062932.000000
+!s107 E:/Verilog/model_sim/lab5/rtl/SISO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/rtl/SISO.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@s@i@s@o
+vSISO_tb
+R0
+!i10b 1
+!s100 =zf;3bnfZ9jT:?@`X9M2c2
+R1
+I^0mQ2M1cJf=azc>U523452
+R2
+R3
+w1792062914
+8E:/Verilog/model_sim/lab5/tb/SISO_tb.v
+FE:/Verilog/model_sim/lab5/tb/SISO_tb.v
+!i122 44
+L0 1 42
+R4
+r1
+!s85 0
+31
+!s108 1792062933.000000
+!s107 E:/Verilog/model_sim/lab5/tb/SISO_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/tb/SISO_tb.v|
+!i113 1
+R5
+R6
+n@s@i@s@o_tb

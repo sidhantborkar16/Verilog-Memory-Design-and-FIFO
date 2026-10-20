@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Verilog/Practice/sim/test
+vram
+Z0 !s110 1791970714
+!i10b 1
+!s100 :Qb2LJz]QMh9m:BDR1Chg3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`10oJ>WBL7PdG14EA_NQ23
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/Verilog/model_sim/lab5/sim/ram
+w1791887224
+8E:/Verilog/model_sim/lab5/rtl/ram.v
+FE:/Verilog/model_sim/lab5/rtl/ram.v
+!i122 26
+L0 2 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1791970714.000000
+!s107 E:/Verilog/model_sim/lab5/rtl/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/rtl/ram.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vram_tb
+R0
+!i10b 1
+!s100 4WFAe`cN9DEiVz;UVVSfJ2
+R1
+I]f@k`>4naNDK`MaI9<_cR3
+R2
+R3
+w1791886938
+8E:/Verilog/model_sim/lab5/tb/ram_tb.v
+FE:/Verilog/model_sim/lab5/tb/ram_tb.v
+!i122 27
+L0 1 57
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Verilog/model_sim/lab5/tb/ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/tb/ram_tb.v|
+!i113 1
+R6
+R7

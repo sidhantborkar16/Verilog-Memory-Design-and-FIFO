@@ -1,0 +1,15 @@
+E:/Verilog/model_sim/lab5/rtl/FIFO.v {1 {vlog -work work -stats=none E:/Verilog/model_sim/lab5/tb/FIFO_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FIFO_tb
+
+Top level modules:
+	FIFO_tb
+
+} {} {}} E:/Verilog/model_sim/lab5/tb/FIFO_tb.v {1 {vlog -work work -stats=none E:/Verilog/model_sim/lab5/tb/FIFO_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FIFO_tb
+
+Top level modules:
+	FIFO_tb
+
+} {} {}}
