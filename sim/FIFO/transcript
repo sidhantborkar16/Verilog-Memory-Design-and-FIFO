@@ -1,0 +1,16 @@
+# 0 compiles, 2 failed with no errors.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.FIFO_tb
+# vsim -gui work.FIFO_tb 
+# Start time: 17:48:02 on Oct 20,2026
+# Loading work.FIFO_tb
+# Loading work.FIFO
+add wave -position insertpoint sim:/FIFO_tb/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: karna  Hostname: ROHAN  ProcessID: 5596
+#           Attempting to use alternate WLF file "./wlftwk9w2g".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftwk9w2g
+run

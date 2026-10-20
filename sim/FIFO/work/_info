@@ -10,49 +10,49 @@ z2
 cModel Technology
 dE:/Verilog/Practice/sim/counter
 vFIFO
-!s110 1792145561
+!s110 1792498662
 !i10b 1
-!s100 V64jWJi8b91>19[igC_>`2
+!s100 TfCAOVGBc6n;eAJPcbh@00
 Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I6a^z@3YkTSN_;DRW_lCMI0
+IDhj?HdG2k:G^b6JPME4^E2
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dE:/Verilog/model_sim/lab5/sim/FIFO
-w1792138864
-8E:/Verilog/model_sim/lab5/rtl/FIFO.v
-FE:/Verilog/model_sim/lab5/rtl/FIFO.v
-!i122 17
+Z2 dE:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/sim/FIFO
+w1792497552
+8E:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/rtl/FIFO.v
+FE:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/rtl/FIFO.v
+!i122 21
 L0 2 39
 Z3 OV;L;2020.1;71
 r1
 !s85 0
 31
-!s108 1792145560.000000
-!s107 E:/Verilog/model_sim/lab5/rtl/FIFO.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/rtl/FIFO.v|
+!s108 1792498660.000000
+!s107 E:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/rtl/FIFO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/rtl/FIFO.v|
 !i113 1
 Z4 o-work work
 Z5 tCvgOpt 0
 n@f@i@f@o
 vFIFO_tb
-!s110 1792145592
+!s110 1792498663
 !i10b 1
 !s100 :T;fCloVz[Q2?llD^ZEjW0
 R0
-Ib[kml^lf92XOj=P?g610O0
+I6FBDbQdcEJ2K9oJPj7eEJ0
 R1
 R2
 w1792097494
-8E:/Verilog/model_sim/lab5/tb/FIFO_tb.v
-FE:/Verilog/model_sim/lab5/tb/FIFO_tb.v
-!i122 20
+8E:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/tb/FIFO_tb.v
+FE:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/tb/FIFO_tb.v
+!i122 22
 L0 1 77
 R3
 r1
 !s85 0
 31
-!s108 1792145591.000000
-!s107 E:/Verilog/model_sim/lab5/tb/FIFO_tb.v|
-!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/tb/FIFO_tb.v|
+!s108 1792498663.000000
+!s107 E:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/tb/FIFO_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog/model_sim/lab5/Verilog-Memory-Design-and-FIFO/tb/FIFO_tb.v|
 !i113 1
 R4
 R5
